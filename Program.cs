@@ -23,6 +23,11 @@ namespace prepChallenges
             Console.WriteLine("Enter a year:");
             int inputYear = Convert.ToInt32(Console.ReadLine());
             checkLeapYear(inputYear);
+
+            // challenge 3
+            Console.WriteLine("Challenge 3:");
+            checkPerfectSequence(inputArr);
+
         }
         static void arrayMaxResult(int[] arr, int num)
         {
@@ -54,6 +59,28 @@ namespace prepChallenges
                 }
             }
             Console.WriteLine(year + isLeap + "a leap year");
+        }
+        static void checkPerfectSequence(int[] arr)
+        {
+            int arrAdd = 0;
+            int arrMult = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                if (arr[i] % -1 == 0) 
+                {
+                    Console.WriteLine("Not a Perfect Sequence");
+                    return;
+                }
+                else
+                {
+                    arrAdd += arr[i];
+                    arrMult *= arr[i];
+                }
+            }
+            if(arrAdd == arrMult)
+            {
+                Console.WriteLine("Is a perfect sequence");
+            }
         }
     }
 }

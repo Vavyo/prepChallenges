@@ -1,0 +1,16 @@
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\prepChallenges.exe
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\prepChallenges.deps.json
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\prepChallenges.runtimeconfig.json
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\prepChallenges.runtimeconfig.dev.json
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\prepChallenges.dll
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\ref\prepChallenges.dll
+E:\Delta V\401\prepChallenges\bin\Debug\net5.0\prepChallenges.pdb
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.csprojAssemblyReference.cache
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.GeneratedMSBuildEditorConfig.editorconfig
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.AssemblyInfoInputs.cache
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.AssemblyInfo.cs
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.csproj.CoreCompileInputs.cache
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.dll
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\ref\prepChallenges.dll
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.pdb
+E:\Delta V\401\prepChallenges\obj\Debug\net5.0\prepChallenges.genruntimeconfig.cache
